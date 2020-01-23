@@ -1,0 +1,84 @@
+.bg-img {
+    /* The image used */
+    background-image: url("../assets/back2.jpg");
+
+    /* Control the height of the image */
+    min-height: 770px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color: rgb(243, 95, 9);
+    background: linear-gradient(rgb(243, 95, 9), black);
+    font-family: 'Playfair Display', serif;
+}
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;           
+}
+
+h2 { /* Titre ilot  1 a 4 */  
+    color: rgb(243, 95, 9);
+}
+#buttonShuffle {
+        background-color: black;
+        border: 2px solid rgb(243, 95, 9);
+        color: rgb(207, 207, 207);
+        border-radius: 6px;
+        text-align: center;
+        line-height: 40px;
+        font-family: 'Playfair Display', serif;
+        margin-left: 60px;
+        font-size: 1.3em;
+}
+
+    #ligne-1-bloc-1 {
+        background-color: black;
+        border: 2px solid rgb(243, 95, 9);
+        color: rgb(207, 207, 207);
+        border-radius: 6px;
+        text-align: center;
+        line-height: 40px;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3em;
+    }
+
+    #ligne-1-bloc-2 {
+        background-color: black;
+        border: 2px solid rgb(243, 95, 9);
+        color: rgb(207, 207, 207);
+        border-radius: 6px;
+        text-align: center;
+        line-height: 40px;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3em;
+    }
+
+    #ligne-1-bloc-3 {
+        background-color: black;
+        border: 2px solid rgb(243, 95, 9);
+        color: rgb(207, 207, 207);
+        border-radius: 6px;
+        text-align: center;
+        line-height: 40px;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3em;
+    }
+
+    #ligne-2-bloc-1 {
+        background-color: black;
+        border: 2px solid rgb(243, 95, 9);
+        color: rgb(207, 207, 207);
+        border-radius: 6px;
+        text-align: center;
+        line-height: 40px;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3em;
+    }  
+
+
+
+  
